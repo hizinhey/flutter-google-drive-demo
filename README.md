@@ -1,1 +1,1 @@
-This is a project in my Flutter journey.
+This is the first project in my Flutter journey.
